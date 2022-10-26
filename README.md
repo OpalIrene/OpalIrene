@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OpalIrene
 - 👀 I’m interested in economics and data science.
 - 🌱 I’m currently learning R.
-- 💞️ I’m looking to collaborate on projects projects involving economic issues.
+- 💞️ I’m looking to collaborate on projects including economic issues.
 - 📫 How to reach me opalfraser@ou.edu
 
 <!---
