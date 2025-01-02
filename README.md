@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OpalIrene
 - 👀 I’m interested in economics and data science.
-- 🌱 I’m currently learning R.
+- 🌱 iPrefer: R, Python, SQL & Julia.
 - 💞️ I’m looking to collaborate on projects about economic issues.
 - 📫 How to reach me opal.alger@alumni.ou.edu
 <!---
